@@ -1,3 +1,2 @@
-# fgjt-uw.github.io
-Personal website for fredtombs.com
-# unclemag
+# unclemag.github.io
+Source code for unclemag.com
